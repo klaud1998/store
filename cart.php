@@ -12,8 +12,6 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/styles.css">
 
-
-
 	<title>CIS 282 Store | Cart</title>
 </head>
 <body>
